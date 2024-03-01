@@ -1,11 +1,22 @@
-import React from 'react';
+import React from "react";
+import "./Elements.css";
 import { motion } from "framer-motion";
 
-export function Image({property}) {
+export function Image({ img }) {
   return (
-    <motion.div className="underline" layoutId="underline" >
-        <console className="log">{property.src}</console>
-        <img src='../assets/Splash.jpg'  alt='notFound'/>
-    </motion.div>
-  )
+    <motion.img
+      className="w-75 rounded-circle"
+      initial={{
+        opacity: 0,
+      }}
+      src={img}
+      alt="notFound-404"
+      animate={{
+        opacity: 1,
+      }}
+      transition={{
+        duration: 2,
+      }}
+    />
+  );
 }
