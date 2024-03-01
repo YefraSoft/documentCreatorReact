@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YefraSoft/documentCreatorReact/static/css/main.2f85b64d.css",
-    "main.js": "/YefraSoft/documentCreatorReact/static/js/main.7b397738.js",
-    "static/media/Splash.jpg": "/YefraSoft/documentCreatorReact/static/media/Splash.1cb80f1896926e34b9fd.jpg",
-    "static/media/login.jpg": "/YefraSoft/documentCreatorReact/static/media/login.e27c408bcd6392fd5f3a.jpg",
-    "index.html": "/YefraSoft/documentCreatorReact/index.html",
-    "main.2f85b64d.css.map": "/YefraSoft/documentCreatorReact/static/css/main.2f85b64d.css.map",
-    "main.7b397738.js.map": "/YefraSoft/documentCreatorReact/static/js/main.7b397738.js.map"
+    "main.css": "/documentCreatorReact/static/css/main.5c5b5861.css",
+    "main.js": "/documentCreatorReact/static/js/main.05bfd538.js",
+    "static/media/Splash.jpg": "/documentCreatorReact/static/media/Splash.1cb80f1896926e34b9fd.jpg",
+    "static/media/login.jpg": "/documentCreatorReact/static/media/login.e27c408bcd6392fd5f3a.jpg",
+    "index.html": "/documentCreatorReact/index.html",
+    "main.5c5b5861.css.map": "/documentCreatorReact/static/css/main.5c5b5861.css.map",
+    "main.05bfd538.js.map": "/documentCreatorReact/static/js/main.05bfd538.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f85b64d.css",
-    "static/js/main.7b397738.js"
+    "static/css/main.5c5b5861.css",
+    "static/js/main.05bfd538.js"
   ]
 }
